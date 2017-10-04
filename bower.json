@@ -1,0 +1,28 @@
+{
+  "name": "AngularJS Boilerplate",
+  "version": "1.1.7",
+  "authors": [
+    "vishal sridahr <interact@vishalsridhar.com> / www.vishalsridhar.com"
+  ],
+  "description": "Getting started template for angular",
+  "main": "app.js",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vidyutron",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.13",
+    "angular-route": "~1.3.13",
+    "angular-sanitize": "~1.3.13",
+    "OwlCarousel": "https://github.com/OwlFonk/OwlCarousel.git#~1.3.2"
+  }
+}
