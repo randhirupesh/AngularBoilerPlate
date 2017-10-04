@@ -14,9 +14,9 @@ Simple AngularJS Boilerplate to kick start your new project with build tasks
 
 ## Pre-requisites
 * Install latest version of Node.js
-* Install bower ```bash
+* Install bower 
+```bash
 npm install -g bower
-
 ```
 ## Download
 ```bash
@@ -85,7 +85,7 @@ gulp server-build
 ```
 
 ## Contact
-Copyright (C) 2015 Jozef Butko<br>
+Copyright (C) 2017 Vishal Sridhar<br>
 [www.vishalsridahr.com](http://www.vishalsridahr.com)<br>
 [www.github.com/vidyutron](http://www.github.com/vidyutron)<br>
 Released under MIT license
