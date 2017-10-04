@@ -86,7 +86,7 @@ gulp server-build
 
 ## Contact
 Copyright (C) 2017 Vishal Sridhar<br>
-[www.vishalsridahr.com](http://www.vishalsridahr.com)<br>
+[www.vishalsridhar.com](http://www.vishalsridhar.com)<br>
 [www.github.com/vidyutron](http://www.github.com/vidyutron)<br>
 Released under MIT license
 
